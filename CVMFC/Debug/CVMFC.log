@@ -1,0 +1,47 @@
+﻿生成启动时间为 2014/9/29 16:52:27。
+     1>项目“E:\MFC练习\CVMFC\CVMFC\CVMFC.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“.\Debug\CVMFC.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         所有输出均为最新。
+         所有输出均为最新。
+       ResourceCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug\CVMFC.exe" /INCREMENTAL /NOLOGO opencv_calib3d243d.lib opencv_contrib243d.lib opencv_core243d.lib opencv_features2d243d.lib opencv_flann243d.lib opencv_gpu243d.lib opencv_highgui243d.lib opencv_imgproc243d.lib opencv_legacy243d.lib opencv_ml243d.lib opencv_objdetect243d.lib opencv_ts243d.lib opencv_video243d.lib libeng.lib libmat.lib libmex.lib libmx.lib opencv_calib3d243d.lib opencv_contrib243d.lib opencv_core243d.lib opencv_features2d243d.lib opencv_flann243d.lib opencv_gpu243d.lib opencv_highgui243d.lib opencv_imgproc243d.lib opencv_legacy243d.lib opencv_ml243d.lib opencv_nonfree243d.lib opencv_objdetect243d.lib opencv_photo243d.lib opencv_stitching243d.lib opencv_ts243d.lib opencv_video243d.lib opencv_videostab243d.lib /MANIFEST /ManifestFile:".\Debug\CVMFC.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\MFC练习\CVMFC\CVMFC\Debug\CVMFC.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\CVMFC.lib" /MACHINE:X86 .\Debug\CVMFC.res
+         .\Debug\CVMFC.exe.embed.manifest.res
+         .\Debug\CameraDSA.obj
+         .\Debug\ChildFrm.obj
+         .\Debug\CVDSCap.obj
+         .\Debug\CVMFC.obj
+         .\Debug\CVMFCDoc.obj
+         .\Debug\CVMFCView.obj
+         .\Debug\MainFrm.obj
+         .\Debug\Processing.obj
+         .\Debug\StdAfx.obj
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:".\Debug\CVMFC.exe.embed.manifest" /manifest .\Debug\CVMFC.exe.intermediate.manifest "D:\Program Files\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo".\Debug\CVMFC.exe.embed.manifest.res" .\Debug\CVMFC_manifest.rc 
+       LinkEmbedManifest:
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug\CVMFC.exe" /INCREMENTAL /NOLOGO opencv_calib3d243d.lib opencv_contrib243d.lib opencv_core243d.lib opencv_features2d243d.lib opencv_flann243d.lib opencv_gpu243d.lib opencv_highgui243d.lib opencv_imgproc243d.lib opencv_legacy243d.lib opencv_ml243d.lib opencv_objdetect243d.lib opencv_ts243d.lib opencv_video243d.lib libeng.lib libmat.lib libmex.lib libmx.lib opencv_calib3d243d.lib opencv_contrib243d.lib opencv_core243d.lib opencv_features2d243d.lib opencv_flann243d.lib opencv_gpu243d.lib opencv_highgui243d.lib opencv_imgproc243d.lib opencv_legacy243d.lib opencv_ml243d.lib opencv_nonfree243d.lib opencv_objdetect243d.lib opencv_photo243d.lib opencv_stitching243d.lib opencv_ts243d.lib opencv_video243d.lib opencv_videostab243d.lib /MANIFEST /ManifestFile:".\Debug\CVMFC.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\MFC练习\CVMFC\CVMFC\Debug\CVMFC.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\CVMFC.lib" /MACHINE:X86 .\Debug\CVMFC.res
+         .\Debug\CVMFC.exe.embed.manifest.res
+         .\Debug\CameraDSA.obj
+         .\Debug\ChildFrm.obj
+         .\Debug\CVDSCap.obj
+         .\Debug\CVMFC.obj
+         .\Debug\CVMFCDoc.obj
+         .\Debug\CVMFCView.obj
+         .\Debug\MainFrm.obj
+         .\Debug\Processing.obj
+         .\Debug\StdAfx.obj
+         CVMFC.vcxproj -> E:\MFC练习\CVMFC\CVMFC\.\Debug\CVMFC.exe
+       FinalizeBuildStatus:
+         正在删除文件“.\Debug\CVMFC.unsuccessfulbuild”。
+         正在对“.\Debug\CVMFC.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\MFC练习\CVMFC\CVMFC\CVMFC.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.93
